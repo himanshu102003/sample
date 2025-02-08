@@ -1,1 +1,1 @@
-# sample
+echo "# Sample Repository"
